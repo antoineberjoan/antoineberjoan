@@ -11,7 +11,7 @@ Conseiller en gestion de patrimoine, je conçois aussi des outils pour expliquer
 
 ### Une exploration complémentaire
 
-**[sema](https://getsema.app)** est une application macOS native pour consulter ses repères économiques. Les [versions à télécharger et le cask Homebrew](https://github.com/antoineberjoan/homebrew-sema) sont publics ; le code de l’application reste privé.
+**[sema](https://getsema.app)** est une application macOS native pour consulter ses repères économiques. Les [versions à télécharger et le cask Homebrew](https://github.com/antoineberjoan/homebrew-sema) sont publics. Le [code source](https://github.com/antoineberjoan/sema) est disponible sous licence MIT.
 
 Du conseil à la conception d’outils, je m’intéresse à ce qui aide à comprendre : des sources explicites, des hypothèses visibles et des interfaces simples.
 
