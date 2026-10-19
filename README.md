@@ -6,8 +6,8 @@ Conseiller en gestion de patrimoine, je conçois aussi des outils pour expliquer
 
 ### Mon travail
 
-- **[Kleron](https://kleron.fr)** — le conseil patrimonial : comprendre sa situation, examiner ses choix et décider.
-- **[Rheos](https://rheos.fr)** — des logiciels et des simulateurs destinés aux conseillers en gestion de patrimoine.
+- **[Kleron](https://kleron.fr)** : le conseil patrimonial : comprendre sa situation, examiner ses choix et décider.
+- **[Rheos](https://rheos.fr)** : des logiciels et des simulateurs destinés aux conseillers en gestion de patrimoine.
 
 ### Une exploration complémentaire
 
